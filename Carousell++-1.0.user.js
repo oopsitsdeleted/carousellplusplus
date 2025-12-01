@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Carousell++
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
+// @license      GPL-3.0
 // @description  Makes Carousell search less annoying and more useful
 // @author       oopsitsdeleted
 // @match        https://www.carousell.sg/search/*
